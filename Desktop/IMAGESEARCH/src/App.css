@@ -1,0 +1,19 @@
+.imag{
+  display: flex;
+  flex-wrap: wrap;
+}
+img{
+  height: 200px;
+  width: 300px;
+}
+.main1{
+  width: 25%;
+}
+h2{
+  text-align: center;
+}
+.btn{
+  width: 100%;
+  text-align: center;
+  margin: 50px;
+}
